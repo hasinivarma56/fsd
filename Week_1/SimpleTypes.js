@@ -6,8 +6,8 @@ console.log("Age:", age);
 console.log("Marks:", marks);
 console.log("Total:", age + marks);
 // Program 2 : String Type
-let firstName = "Hansika";
-let lastName = "Kommina";
+let firstName = "Hasini";
+let lastName = "bhupathiraju";
 console.log("Full Name:", firstName + " " + lastName);
 console.log(`Welcome ${firstName}`);
 console.log(firstName.toUpperCase());
