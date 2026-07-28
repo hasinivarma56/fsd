@@ -2,7 +2,7 @@
 // PROGRAM 1 : Variable Type Annotation
 Object.defineProperty(exports, "__esModule", { value: true });
 console.log("Program 1 ");
-let name = "Hansika";
+let name = "Hasini";
 let age = 20;
 let passed = true;
 console.log(name);
@@ -18,7 +18,7 @@ console.log(add(20, 30));
 console.log("\n Program 3 ");
 let marks = [90, 95, 98];
 let student = {
-    name: "Hansika",
+    name: "Hasini",
     roll: 101
 };
 console.log(marks);
