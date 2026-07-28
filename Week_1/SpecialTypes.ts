@@ -9,7 +9,7 @@ let data: any;
 data = 100;
 console.log(data);
 
-data = "Hansika";
+data = "Hasini";
 console.log(data);
 
 data = true;
@@ -47,4 +47,4 @@ function greet(name:string):void{
     console.log("Welcome "+name);
 }
 
-greet("Hansika");
+greet("Hasini");
