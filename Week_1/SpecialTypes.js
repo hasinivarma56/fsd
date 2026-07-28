@@ -4,7 +4,7 @@ console.log("\nProgram 1 : ");
 let data;
 data = 100;
 console.log(data);
-data = "Hansika";
+data = "Hasini";
 console.log(data);
 data = true;
 console.log(data);
@@ -24,4 +24,4 @@ console.log("\n Program 3 : ");
 function greet(name) {
     console.log("Welcome " + name);
 }
-greet("Hansika");
+greet("Hasini");
