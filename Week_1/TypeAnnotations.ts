@@ -4,7 +4,7 @@
 
 console.log("Program 1 ");
 
-let name:string="Hansika";
+let name:string="Hasini";
 let age:number=20;
 let passed:boolean=true;
 
@@ -37,7 +37,7 @@ let student:{
     name:string,
     roll:number
 }={
-    name:"Hansika",
+    name:"Hasini",
     roll:101
 };
 
