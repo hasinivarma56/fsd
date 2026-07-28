@@ -13,8 +13,8 @@ console.log("Total:", age + marks);
 // Program 2 : String Type
 
 
-let firstName: string = "Hansika";
-let lastName: string = "Kommina";
+let firstName: string = "Hasini";
+let lastName: string = "Bhupathiraju";
 
 console.log("Full Name:", firstName + " " + lastName);
 console.log(`Welcome ${firstName}`);
